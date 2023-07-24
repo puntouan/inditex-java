@@ -1,4 +1,4 @@
-package com.challenge.inditexjava.product.infrastructure;
+package com.challenge.inditexjava.product.infrastructure.rest;
 
 import com.challenge.inditexjava.product.domain.ProductRate;
 import org.springframework.stereotype.Component;

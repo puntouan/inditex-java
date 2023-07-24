@@ -1,4 +1,4 @@
-package com.challenge.inditexjava.product.infrastructure;
+package com.challenge.inditexjava.product.infrastructure.persistence;
 
 import com.challenge.inditexjava.product.domain.Currency;
 import com.challenge.inditexjava.product.domain.MonetaryAmount;

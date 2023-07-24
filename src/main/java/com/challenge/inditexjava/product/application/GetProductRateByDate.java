@@ -1,5 +1,6 @@
 package com.challenge.inditexjava.product.application;
 
+import com.challenge.inditexjava.product.domain.IGetProductRateByDate;
 import com.challenge.inditexjava.product.domain.MissingProductRateOnDateException;
 import com.challenge.inditexjava.product.domain.ProductRate;
 import com.challenge.inditexjava.product.domain.ProductRateRepository;
@@ -9,7 +10,7 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;
 
 @Service
-public class GetProductRateByDate {
+public class GetProductRateByDate implements IGetProductRateByDate {
     private final ProductRateRepository productRateRepository;
 
     @Autowired

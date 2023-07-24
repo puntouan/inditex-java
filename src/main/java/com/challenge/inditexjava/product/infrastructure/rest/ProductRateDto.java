@@ -1,4 +1,4 @@
-package com.challenge.inditexjava.product.infrastructure;
+package com.challenge.inditexjava.product.infrastructure.rest;
 
 import java.time.LocalDateTime;
 

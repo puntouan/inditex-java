@@ -1,4 +1,4 @@
-package com.challenge.inditexjava.product.infrastructure;
+package com.challenge.inditexjava.product.infrastructure.rest;
 
 import com.challenge.inditexjava.product.domain.MissingProductRateOnDateException;
 import org.springframework.http.HttpStatus;

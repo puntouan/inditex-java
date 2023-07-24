@@ -1,4 +1,4 @@
-package com.challenge.inditexjava.product.infrastructure;
+package com.challenge.inditexjava.product.infrastructure.persistence;
 
 import com.challenge.inditexjava.product.domain.ProductRateRepository;
 import com.challenge.inditexjava.product.domain.ProductRatesOnADate;
